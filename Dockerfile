@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node
 MAINTAINER Israel Sotomayor <sotoisra24@gmail.com>
 
 RUN npm install -g semantic-release
